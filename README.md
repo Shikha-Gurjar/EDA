@@ -13,7 +13,7 @@ EDA ia a critical and first step in analyzing the data and we do this for below 
 
 ## Table of Contents
 - [Fastfood Restaurent Chain](#section1)<br>
-
+![images.jpg](images/fastf.jpg)<br><br>
 ___
 <a id=section1></a>
 ### [Fastfood Restaurent Chain](./FASTFOOD_REST)
