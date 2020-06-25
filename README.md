@@ -17,3 +17,7 @@ ___
 <a id=section1></a>
 ### [Fastfood Restaurent Chain](./FASTFOOD_REST)
 ![images.jpg](images/fastf.jpg)<br><br>
+
+-  This information  is about the fastfood restaurents in US. Situated in different cities.
+-  It has 10,000 fastfood restaurents entries and having different columns.
+
