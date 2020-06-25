@@ -21,3 +21,4 @@ ___
 -  This information  is about the fastfood restaurents in US. Situated in different cities.
 -  It has 10,000 fastfood restaurents entries and having different columns.
 
+- [Link for the Jupyter notebook](./fastfood_rest/FASTFOOD_REST.ipynb)
