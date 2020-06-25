@@ -1,5 +1,5 @@
 # EDA
-Exploratory Data Analysis is done
+
 __Exploratory Data Analysis(EDA)__ which includes __cleaning__, __munging__, __combining__, __reshaping__, __slicing__, __dicing__, and __transforming data__ for analysis purpose.
 
 * __Exploratory Data Analysis__ <br/>
